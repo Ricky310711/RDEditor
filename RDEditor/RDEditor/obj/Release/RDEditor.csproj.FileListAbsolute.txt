@@ -1,0 +1,10 @@
+C:\Users\Ricky Divjakovski\Desktop\RDEditor\RDEditor\RDEditor\bin\Release\RDEditor.exe.config
+C:\Users\Ricky Divjakovski\Desktop\RDEditor\RDEditor\RDEditor\bin\Release\RDEditor.exe
+C:\Users\Ricky Divjakovski\Desktop\RDEditor\RDEditor\RDEditor\bin\Release\RDEditor.pdb
+C:\Users\Ricky Divjakovski\Desktop\RDEditor\RDEditor\RDEditor\obj\Release\RDEditor.csprojResolveAssemblyReference.cache
+C:\Users\Ricky Divjakovski\Desktop\RDEditor\RDEditor\RDEditor\obj\Release\RDEditor.RDEditorMain.resources
+C:\Users\Ricky Divjakovski\Desktop\RDEditor\RDEditor\RDEditor\obj\Release\RDEditor.Settings.resources
+C:\Users\Ricky Divjakovski\Desktop\RDEditor\RDEditor\RDEditor\obj\Release\RDEditor.Properties.Resources.resources
+C:\Users\Ricky Divjakovski\Desktop\RDEditor\RDEditor\RDEditor\obj\Release\RDEditor.csproj.GenerateResource.Cache
+C:\Users\Ricky Divjakovski\Desktop\RDEditor\RDEditor\RDEditor\obj\Release\RDEditor.exe
+C:\Users\Ricky Divjakovski\Desktop\RDEditor\RDEditor\RDEditor\obj\Release\RDEditor.pdb

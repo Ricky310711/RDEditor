@@ -1,0 +1,19 @@
+c:\users\ricky divjakovski\documents\visual studio 2015\Projects\RDEditor\RDEditor\bin\Debug\RDEditor.exe.config
+c:\users\ricky divjakovski\documents\visual studio 2015\Projects\RDEditor\RDEditor\bin\Debug\RDEditor.exe
+c:\users\ricky divjakovski\documents\visual studio 2015\Projects\RDEditor\RDEditor\bin\Debug\RDEditor.pdb
+c:\users\ricky divjakovski\documents\visual studio 2015\Projects\RDEditor\RDEditor\obj\Debug\RDEditor.csprojResolveAssemblyReference.cache
+c:\users\ricky divjakovski\documents\visual studio 2015\Projects\RDEditor\RDEditor\obj\Debug\RDEditor.Properties.Resources.resources
+c:\users\ricky divjakovski\documents\visual studio 2015\Projects\RDEditor\RDEditor\obj\Debug\RDEditor.csproj.GenerateResource.Cache
+c:\users\ricky divjakovski\documents\visual studio 2015\Projects\RDEditor\RDEditor\obj\Debug\RDEditor.exe
+c:\users\ricky divjakovski\documents\visual studio 2015\Projects\RDEditor\RDEditor\obj\Debug\RDEditor.pdb
+C:\Users\Ricky Divjakovski\documents\visual studio 2015\Projects\RDEditor\RDEditor\obj\Debug\RDEditor.RDEditorMain.resources
+C:\Users\Ricky Divjakovski\Desktop\RDEditor\RDEditor\RDEditor\bin\Debug\RDEditor.exe.config
+C:\Users\Ricky Divjakovski\Desktop\RDEditor\RDEditor\RDEditor\obj\Debug\RDEditor.exe
+C:\Users\Ricky Divjakovski\Desktop\RDEditor\RDEditor\RDEditor\obj\Debug\RDEditor.pdb
+C:\Users\Ricky Divjakovski\Desktop\RDEditor\RDEditor\RDEditor\bin\Debug\RDEditor.exe
+C:\Users\Ricky Divjakovski\Desktop\RDEditor\RDEditor\RDEditor\bin\Debug\RDEditor.pdb
+C:\Users\Ricky Divjakovski\Desktop\RDEditor\RDEditor\RDEditor\obj\Debug\RDEditor.RDEditorMain.resources
+C:\Users\Ricky Divjakovski\Desktop\RDEditor\RDEditor\RDEditor\obj\Debug\RDEditor.Properties.Resources.resources
+C:\Users\Ricky Divjakovski\Desktop\RDEditor\RDEditor\RDEditor\obj\Debug\RDEditor.csproj.GenerateResource.Cache
+C:\Users\Ricky Divjakovski\Desktop\RDEditor\RDEditor\RDEditor\obj\Debug\RDEditor.csprojResolveAssemblyReference.cache
+C:\Users\Ricky Divjakovski\Desktop\RDEditor\RDEditor\RDEditor\obj\Debug\RDEditor.Settings.resources

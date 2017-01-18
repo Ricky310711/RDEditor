@@ -1,0 +1,56 @@
+Standard text editor options(open, save, save as, print)
+unlimited undo/redo
+cut, copy, paste, clear all text, select all
+search
+find and replace
+jump to top, jump to bottom
+Zoom in and out with "CTRL" + "+" and "-"
+zoom upto 250x
+syntax refresh button
+Syntax highlighting C
+Syntax highlighting C#
+Syntax highlighting Batch
+Syntax highlighting Edify
+Syntax highlighting Java
+Syntax highlighting Property list
+Syntax highlighting Shatch
+Syntax highlighting Shell
+Syntax highlighting Smali
+Syntax highlighting XML
+line and column position
+Hotkeys enabled
+prompt to save edited file
+Drag and drop
+auto indention(enble/disable aswell)
+auto open last file(enable/disable aswell)
+auto save file on update(enable/disable aswell)
+auto save text size(enable/disable aswell)
+word wrap(enable/disable aswell)
+auto execute after compiling(enable/disable aswell)
+Option to save file if dropping file on modified code
+Drag file onto icon to open
+built in console
+
+---RECOGNISED FILE TYPES---
+*.bat
+*.c
+*.prop
+*.smali
+*.cs
+*.java
+*.plist
+*.sth
+*.sh
+*.conf
+*.sln
+*.xml
+updater-script
+
+----NOT DONE
+set compiler path and args
+RDExplorer
+Line numbers checkbox
+Show EOL chars checkbox
+Carriage return/Line feed conversion
+auto syntax update
+add theming
